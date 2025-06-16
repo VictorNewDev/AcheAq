@@ -1,6 +1,6 @@
-# AcheiAq · Mobile App for Price Comparison
+# AcheAq · Mobile App for Price Comparison
 
-**AcheiAq** é um aplicativo móvel inteligente desenvolvido para auxiliar consumidores a encontrarem os melhores preços de produtos em tempo real, integrando múltiplas fontes de e-commerce por meio de APIs e inteligência artificial.
+**AcheAq** é um aplicativo móvel inteligente desenvolvido para auxiliar consumidores a encontrarem os melhores preços de produtos em tempo real, integrando múltiplas fontes de e-commerce por meio de APIs e inteligência artificial.
 
 - 📄 **Documento Técnico**: Arquitetura de Software  
 - 📱 **Plataforma**: Android & iOS (React Native)  
@@ -30,7 +30,6 @@
 ```bash
 # Clone o projeto
 git clone https://github.com/seu-usuario/acheiaq.git
-cd acheiaq
 
 # Instale as dependências
 npm install
