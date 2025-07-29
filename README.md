@@ -5,8 +5,8 @@
 - 📄 **Documento Técnico**: Arquitetura de Software  
 - 📱 **Plataforma**: Android & iOS (React Native)  
 - 🔍 **Funcionalidade Principal**: Pesquisa de produtos e comparação de preços com histórico e chatbot integrado  
-- 🧠 **IA Integrada**: Assistente baseado em linguagem natural via OpenAI/Dialogflow  
-- 🔒 **Segurança**: Autenticação e armazenamento com Firebase  
+- [Em breve]🧠 **IA Integrada**: Assistente baseado em linguagem natural via OpenAI/Dialogflow  
+- [Em breve]🔒 **Segurança**: Autenticação e armazenamento com Firebase  
 
 ---
 
